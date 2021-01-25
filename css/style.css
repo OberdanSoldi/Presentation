@@ -4,52 +4,52 @@ body {
 }
 
 p, a, h1, h2, ul, .atualizacao {
-  font-size: 24px;
-  color: #aaaaaa;
+  font-size: 25px;
+  color: darkgray;
   font-family: lucida Bright;
   width: 512px;
 }
 
 article {
-  padding-top: 16px;
+  padding-top: 15px;
 }
 
 h1, h2 {
-  margin: 10px 3px 16px 32px;
+  margin: 10px 5px 15px 35px;
   color: white;
-  font-size: 24px;
+  font-size: 25px;
   font-family: Arial;
   font-weight: 700;
 }
 
 h1 {
-  margin: 10px 3px 0px 32px;
+  margin: 10px 5px 0px 35px;
 }
 
 .gif {
   width: 100px;
   height: 100px;
-  margin: 0px 0px 32px 32px;
+  margin: 0px 0px 35px 35px;
   border-radius: 50px;
 }
 
 p {
-  margin: 0px 32px 32px;
+  margin: 0px 35px 35px;
 }
 
 a {
-  font-size: 24px;
-  color: #aaaaaa;
+  font-size: 25px;
+  color: darkgray;
 }
 
 ul {
-  margin: 0px 0px 32px 9px;
-  font-size: 24px;
-  color: #aaaaaa;
+  margin: 0px 0px 35px 10px;
+  font-size: 25px;
+  color: darkgray;
 }
 
 .atualizacao {
-  margin: 0px 32px 32px;
+  margin: 0px 35px 35px;
   font-size: 15px;
-  color: #aaaaaa;
+  color: darkgray;
 }
